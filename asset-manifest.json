@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/CalorieSearch/static/css/main.5d1535d4.chunk.css",
+    "main.js": "/CalorieSearch/static/js/main.1141f7d8.chunk.js",
+    "main.js.map": "/CalorieSearch/static/js/main.1141f7d8.chunk.js.map",
+    "runtime-main.js": "/CalorieSearch/static/js/runtime-main.f5cd3424.js",
+    "runtime-main.js.map": "/CalorieSearch/static/js/runtime-main.f5cd3424.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/CalorieSearch/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.94978ef5.chunk.js": "/CalorieSearch/static/js/2.94978ef5.chunk.js",
+    "static/js/2.94978ef5.chunk.js.map": "/CalorieSearch/static/js/2.94978ef5.chunk.js.map",
+    "index.html": "/CalorieSearch/index.html",
+    "precache-manifest.df5cb3e40fe30ed48c2b8d49cba7e5bb.js": "/CalorieSearch/precache-manifest.df5cb3e40fe30ed48c2b8d49cba7e5bb.js",
+    "service-worker.js": "/CalorieSearch/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/CalorieSearch/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.5d1535d4.chunk.css.map": "/CalorieSearch/static/css/main.5d1535d4.chunk.css.map",
+    "static/js/2.94978ef5.chunk.js.LICENSE": "/CalorieSearch/static/js/2.94978ef5.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f5cd3424.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.94978ef5.chunk.js",
+    "static/css/main.5d1535d4.chunk.css",
+    "static/js/main.1141f7d8.chunk.js"
+  ]
+}
