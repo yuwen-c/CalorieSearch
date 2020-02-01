@@ -1,5 +1,6 @@
 {
-  "name": "calorie",
+  "homepage": "https://yuwenGithub.github.io/CalorieSearch",
+  "name": "CalorieSearch",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
